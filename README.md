@@ -1,5 +1,5 @@
 # README
-![Location-tracking-apps (2)](https://user-images.githubusercontent.com/88341460/206765485-a4f04a4d-e211-4830-9c51-91491f64d668.jpg)
+![Location-tracking-apps (2)](https://www.tecocraft.com/wp-content/uploads/2018/05/location_1-2.jpg)
 # 🔰Feutures and Containt🔰
     0) Ip Address
     
@@ -54,22 +54,22 @@
     sudo apt-get install git
     sudo apt-get install pip
     sudo apt install python3
-    git clone https://github.com/akashblackhat/Live-location.py.git
+    git clone https://github.com/luciferbigbrother/Locationtracker.git
     ls
-    cd Live-location.py 
+    cd Locationtracker 
     ls
-    sudo python3 Live-location.py
+    sudo python3 livelocationtracker.py
 # 🔰Termux Installation🔰
     apt update 
     apt install git 
     apt install python
     apt install python3
     apt install pip
-    git clone https://github.com/akashblackhat/Live-location.py.git
+    git clone https://github.com/luciferbigbrother/Locationtracker.git
     ls
-    cd Live-location.py
+    cd Locationtracker
     ls
-    python3 Live-location.py
+    python3 livelocationtracker.py
 # ❌Disclaimer❌
 * Live-locatio tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose 🏴 !!!
 * Hacking is not a crime (: ..Pull requests are always welcome.. :)
