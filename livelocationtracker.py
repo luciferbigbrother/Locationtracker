@@ -47,7 +47,7 @@ def loop():
     Type \"show\" to show all command """)
 
     def track():
-        tip = input(Fore.MAGENTA + "Iptracker > " + Style.RESET_ALL)
+        tip = input(Fore.MAGENTA + "Lucifer > " + Style.RESET_ALL)
         if tip == "help":
             print(Fore.BLUE + """
             show :  Its Display all commands
